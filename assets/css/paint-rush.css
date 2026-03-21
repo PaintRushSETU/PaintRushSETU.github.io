@@ -140,3 +140,8 @@ body {
 .header-section {
   display: none;
 }
+
+.pr-featured-grid {
+  max-width: 760px;
+  margin: 0 auto;
+}
