@@ -141,6 +141,18 @@ body {
   display: none;
 }
 
+Paste at bottom of paint-rush.css
+
+.pr-centered-block {
+  max-width: 760px;
+  margin: 40px auto;
+}
+
+.pr-top-grid {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
 .pr-featured-grid {
   max-width: 760px;
   margin: 0 auto;
