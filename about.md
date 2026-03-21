@@ -1,16 +1,31 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Paint Rush
+subtitle: A brand built for accessible creativity
+permalink: /about/
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Paint Rush is an art supply brand designed around the needs of students, hobbyist artists and emerging creatives. The aim of the brand is to provide a more affordable, convenient and environmentally aware option within the art materials market.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+At present, many creative consumers face a common challenge: quality art supplies can be expensive, difficult to access locally, or lacking in sustainable choice. Paint Rush responds to this gap by focusing on value, ease of use and products that support everyday creativity.
 
-What else do you need?
+## What We Stand For
 
-### My story
+<div class="pr-card-grid">
+  <div class="pr-card">
+    <h3>Accessibility</h3>
+    <p>Art should feel open and achievable. Our brand is designed to support beginners as well as more experienced hobbyists.</p>
+  </div>
+  <div class="pr-card">
+    <h3>Value</h3>
+    <p>We aim to offer strong value for money, especially for students and budget-conscious creators.</p>
+  </div>
+  <div class="pr-card">
+    <h3>Sustainability</h3>
+    <p>Paint Rush is committed to expanding eco-conscious product options and making better material choices more available.</p>
+  </div>
+</div>
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## Our Audience
+
+Paint Rush primarily targets younger consumers between the ages of 18 and 34, with a strong focus on students and hobbyist artists. These customers value convenience, affordability and products that align with their creative lifestyle.
