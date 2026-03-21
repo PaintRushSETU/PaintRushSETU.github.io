@@ -89,9 +89,9 @@ rss-description: Paint Rush is an eco-conscious art supply brand offering afford
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
   reddit: false
 
@@ -106,13 +106,13 @@ title-on-all-pages: true
 excerpt_length: 50
 
 # Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: true
+feed_show_excerpt: false
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
+feed_show_tags: false
 
 # Add a search button to the navbar
-post_search: true
+post_search: false
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
 edit_page_button: false
@@ -131,23 +131,20 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#fffdf7"
-text-col: "#2f2f2f"
-link-col: "#355c7d"
-hover-col: "#f1d012"
-navbar-col: "#1f2430"
-navbar-text-col: "#ffffff"
-navbar-border-col: "#2b3240"
-footer-col: "#1f2430"
-footer-text-col: "#d1d5db"
-footer-link-col: "#ffffff"
-footer-hover-col: "#f1d012"
-mobile-theme-col: "#1f2430"
+page-col: "#F7F4EE"
+text-col: "#2E3440"
+link-col: "#1F2A44"
+hover-col: "#F1D012"
+navbar-col: "#1F2430"
+navbar-text-col: "#FFFFFF"
+navbar-border-col: "#1F2430"
+footer-col: "#1F2430"
+footer-text-col: "#FFFFFF"
+footer-link-col: "#F1D012"
+footer-hover-col: "#FFFFFF"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
-site-css:
-  - "/assets/css/paint-rush.css"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
